@@ -1,0 +1,22 @@
+Model Type: cnn
+Batch Size: 32
+Window Size: 16
+Hidden Size: 64
+Num Layers: 2
+Dropout: 0.3
+Learning Rate: 0.006
+Num Epochs: 50
+Best Test Accuracy: 85.89%
+
+Training Time Statistics:
+Total Training Time: 127.93s
+Average Training Time per Epoch: 2.56s
+Total Testing Time: 128.06s
+Average Testing Time per Epoch: 2.56s
+Total Time: 255.98s
+
+Evaluation Metrics:
+Accuracy: 0.8589
+Precision: 0.8601
+Recall: 0.8589
+F1 Score: 0.8317

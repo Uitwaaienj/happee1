@@ -1,0 +1,22 @@
+Model Type: cnn_gru
+Batch Size: 32
+Window Size: 16
+Hidden Size: 64
+Num Layers: 2
+Dropout: 0.3
+Learning Rate: 0.004
+Num Epochs: 50
+Best Test Accuracy: 93.36%
+
+Training Time Statistics:
+Total Training Time: 122.77s
+Average Training Time per Epoch: 2.46s
+Total Testing Time: 120.56s
+Average Testing Time per Epoch: 2.41s
+Total Time: 243.32s
+
+Evaluation Metrics:
+Accuracy: 0.9336
+Precision: 0.9328
+Recall: 0.9336
+F1 Score: 0.9330

@@ -1,0 +1,22 @@
+Model Type: gru
+Batch Size: 32
+Window Size: 16
+Hidden Size: 32
+Num Layers: 2
+Dropout: 0.3
+Learning Rate: 0.015
+Num Epochs: 50
+Best Test Accuracy: 94.16%
+
+Training Time Statistics:
+Total Training Time: 116.99s
+Average Training Time per Epoch: 2.34s
+Total Testing Time: 118.97s
+Average Testing Time per Epoch: 2.38s
+Total Time: 235.96s
+
+Evaluation Metrics:
+Accuracy: 0.9416
+Precision: 0.9479
+Recall: 0.9416
+F1 Score: 0.9406

@@ -1,0 +1,22 @@
+Model Type: lstm
+Batch Size: 32
+Window Size: 16
+Hidden Size: 32
+Num Layers: 2
+Dropout: 0.3
+Learning Rate: 0.005
+Num Epochs: 50
+Best Test Accuracy: 88.10%
+
+Training Time Statistics:
+Total Training Time: 118.52s
+Average Training Time per Epoch: 2.37s
+Total Testing Time: 118.82s
+Average Testing Time per Epoch: 2.38s
+Total Time: 237.34s
+
+Evaluation Metrics:
+Accuracy: 0.8810
+Precision: 0.8917
+Recall: 0.8810
+F1 Score: 0.8656

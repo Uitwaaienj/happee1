@@ -1,0 +1,22 @@
+Model Type: cnn_lstm
+Batch Size: 32
+Window Size: 16
+Hidden Size: 64
+Num Layers: 2
+Dropout: 0.3
+Learning Rate: 0.003
+Num Epochs: 50
+Best Test Accuracy: 92.82%
+
+Training Time Statistics:
+Total Training Time: 127.07s
+Average Training Time per Epoch: 2.54s
+Total Testing Time: 123.88s
+Average Testing Time per Epoch: 2.48s
+Total Time: 250.95s
+
+Evaluation Metrics:
+Accuracy: 0.9282
+Precision: 0.9307
+Recall: 0.9282
+F1 Score: 0.9191
